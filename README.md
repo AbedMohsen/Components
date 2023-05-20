@@ -6,12 +6,6 @@ A React app that uses a sidebar to navigate through different paths of the app. 
 
 ## Dependencies
 
-- Prop-type
-- Tailwind CSS
-- Classnames
-- React-Icons
-- Immer
-
 - Prop-type to validate that only one button variation is true at a time.
 - Tailwind CSS framework to add style.
 - Classnames for conditionally joining classNames together.
