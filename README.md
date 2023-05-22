@@ -14,6 +14,9 @@ Here are some examples of the different sidebar paths that can be used to naviga
 ![Modal](images/Modal.PNG)
 ![Table](images/Table.PNG)
 ![Counter](images/Counter.PNG)
+
+Different URL path for each page:
+
 ![Paths](images/Paths.PNG)
 
 ## Dependencies
