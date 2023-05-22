@@ -20,9 +20,7 @@ Here are some examples of the different sidebar paths that can be used to naviga
 
 This project uses the following dependencies:
 
-- <span style="color:yellow">prop-types</span> to validate that only one button variation is true at a time.
-
-- prop-types
+- prop-types to validate that only one button variation is true at a time.
 - Tailwind CSS framework to add style.
 - classnames for conditionally joining classNames together.
 - react-icons to add icons to buttons.
