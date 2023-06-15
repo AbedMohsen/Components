@@ -1,33 +1,27 @@
-# Components
+# Media
 
 ## Description
 
-This React app uses a sidebar to navigate through different paths of the app. It employs multiple components, such as a dropdown, accordion, buttons, modal, table with sorting function, and counter page.
+This React-Redux app allows the user to add users, albums, photos as well as deleting them. It uses Async Thunks and Redux Toolkit Query to handle data from the app to the JSON server.
 
 ## Images
 
-Here are some examples of the different sidebar paths that can be used to navigate through:
+Here is an image of the app:
 
-![Dropdown](images/Dropdown.PNG)
-![Accordion](images/Accordion.PNG)
-![Buttons](images/Buttons.PNG)
-![Modal](images/Modal.PNG)
-![Table](images/Table.PNG)
-![Counter](images/Counter.PNG)
-
-Different URL path for each page:
-
-![Paths](images/Paths.PNG)
+![Overview](images/Overview.PNG)
 
 ## Dependencies
 
 This project uses the following dependencies:
 
-- prop-types to validate that only one button variation is true at a time.
+- Faker to generate massive amounts of fake (but realistic) data for testing and development.
+- Redux Toolkit to simplify the development workflow with Redux.
+- Axios for a promise-based HTTP Client for node.js and the browser.
+- JSON Server to get a full fake REST API.
+- Classnames for conditionally joining classNames together.
+- react-icons to include popular icons in your React projects, which utilizes ES6 imports that allows you to include only the icons that your project is using.
 - Tailwind CSS framework to add style.
-- classnames for conditionally joining classNames together.
-- react-icons to add icons to buttons.
-- immer to directly mutate the state coming from the Reducer function.
+- React-Redux to let React components read data from a Redux store, and dispatch actions to the store to update state.
 
 ## Acknowledgments
 
